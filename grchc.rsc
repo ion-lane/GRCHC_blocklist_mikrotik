@@ -448,6 +448,7 @@ add list=GRCHC address=62.63.100.160/30
 add list=GRCHC address=62.63.101.80/29
 add list=GRCHC address=62.63.96.32/28
 add list=GRCHC address=62.63.98.24/29
+add list=GRCHC address=62.76.98.0/24
 add list=GRCHC address=77.243.9.80/28
 add list=GRCHC address=77.34.209.160/28
 add list=GRCHC address=77.35.76.80/28
