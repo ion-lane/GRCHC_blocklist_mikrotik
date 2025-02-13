@@ -365,8 +365,6 @@ add list=GRCHC address=217.172.18.0/23
 add list=GRCHC address=217.195.92.16/28
 add list=GRCHC address=217.195.93.144/29
 add list=GRCHC address=217.195.94.200/29
-add list=GRCHC address=217.198.6.128/26
-add list=GRCHC address=217.198.6.48/29
 add list=GRCHC address=217.20.86.128/26
 add list=GRCHC address=217.20.86.232/29
 add list=GRCHC address=217.23.88.168/29
