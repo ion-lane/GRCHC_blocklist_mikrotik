@@ -22,6 +22,7 @@ add list=GRCHC address=109.248.197.0/24
 add list=GRCHC address=109.73.4.224/27
 add list=GRCHC address=145.255.238.240/28
 add list=GRCHC address=149.62.55.240/30
+add list=GRCHC address=176.100.254.0/24
 add list=GRCHC address=176.109.0.0/21
 add list=GRCHC address=176.116.96.0/20
 add list=GRCHC address=178.16.156.148/30
