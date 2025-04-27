@@ -22,7 +22,6 @@ add list=GRCHC address=109.248.197.0/24
 add list=GRCHC address=109.73.4.224/27
 add list=GRCHC address=145.255.238.240/28
 add list=GRCHC address=149.62.55.240/30
-add list=GRCHC address=176.100.254.0/24
 add list=GRCHC address=176.109.0.0/21
 add list=GRCHC address=176.116.96.0/20
 add list=GRCHC address=178.16.156.148/30
@@ -30,7 +29,6 @@ add list=GRCHC address=178.237.206.0/24
 add list=GRCHC address=178.237.240.0/20
 add list=GRCHC address=178.237.248.0/21
 add list=GRCHC address=178.248.232.137/32
-add list=GRCHC address=178.248.232.46/32
 add list=GRCHC address=178.248.232.60/32
 add list=GRCHC address=178.248.233.136/32
 add list=GRCHC address=178.248.233.244/32
@@ -44,12 +42,10 @@ add list=GRCHC address=178.248.234.228/32
 add list=GRCHC address=178.248.234.238/32
 add list=GRCHC address=178.248.234.30/32
 add list=GRCHC address=178.248.234.33/32
-add list=GRCHC address=178.248.234.53/32
 add list=GRCHC address=178.248.234.60/32
 add list=GRCHC address=178.248.234.79/32
 add list=GRCHC address=178.248.234.83/32
 add list=GRCHC address=178.248.235.244/32
-add list=GRCHC address=178.248.235.53/32
 add list=GRCHC address=178.248.235.60/32
 add list=GRCHC address=178.248.235.75/32
 add list=GRCHC address=178.248.236.20/32
@@ -58,7 +54,6 @@ add list=GRCHC address=178.248.236.83/32
 add list=GRCHC address=178.248.237.136/32
 add list=GRCHC address=178.248.237.18/32
 add list=GRCHC address=178.248.237.242/32
-add list=GRCHC address=178.248.237.47/32
 add list=GRCHC address=178.248.237.98/32
 add list=GRCHC address=178.248.238.102/32
 add list=GRCHC address=178.248.238.128/32
