@@ -657,7 +657,6 @@ add list=GRCHC address=87.226.156.64/26
 add list=GRCHC address=87.226.191.0/24
 add list=GRCHC address=87.226.213.0/24
 add list=GRCHC address=87.226.239.180/30
-add list=GRCHC address=87.237.42.208/29
 add list=GRCHC address=87.237.47.204/30
 add list=GRCHC address=87.245.133.0/24
 add list=GRCHC address=87.249.16.32/28
