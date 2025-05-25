@@ -726,8 +726,6 @@ add list=GRCHC address=91.215.168.0/22
 add list=GRCHC address=91.217.34.0/23
 add list=GRCHC address=91.219.192.0/22
 add list=GRCHC address=91.221.140.0/23
-add list=GRCHC address=91.221.140.0/24
-add list=GRCHC address=91.221.141.0/24
 add list=GRCHC address=91.226.250.0/24
 add list=GRCHC address=91.227.32.0/24
 add list=GRCHC address=92.101.253.152/29
