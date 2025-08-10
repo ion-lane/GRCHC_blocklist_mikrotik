@@ -142,8 +142,6 @@ add list=GRCHC address=195.182.151.216/30
 add list=GRCHC address=195.182.155.164/30
 add list=GRCHC address=195.182.156.96/30
 add list=GRCHC address=195.209.120.0/22
-add list=GRCHC address=195.209.122.0/24
-add list=GRCHC address=195.209.123.0/24
 add list=GRCHC address=195.218.175.40/29
 add list=GRCHC address=195.239.113.0/24
 add list=GRCHC address=195.3.240.0/22
@@ -186,9 +184,6 @@ add list=GRCHC address=212.17.17.176/28
 add list=GRCHC address=212.17.8.176/29
 add list=GRCHC address=212.17.9.144/28
 add list=GRCHC address=212.192.156.0/22
-add list=GRCHC address=212.192.156.0/24
-add list=GRCHC address=212.192.157.0/24
-add list=GRCHC address=212.192.158.0/24
 add list=GRCHC address=212.23.85.48/30
 add list=GRCHC address=212.23.85.56/29
 add list=GRCHC address=212.32.198.64/29
@@ -723,7 +718,6 @@ add list=GRCHC address=91.103.194.184/29
 add list=GRCHC address=91.215.168.0/22
 add list=GRCHC address=91.217.34.0/23
 add list=GRCHC address=91.219.192.0/22
-add list=GRCHC address=91.221.140.0/23
 add list=GRCHC address=91.226.250.0/24
 add list=GRCHC address=91.227.32.0/24
 add list=GRCHC address=92.101.253.152/29
