@@ -687,7 +687,6 @@ add list=GRCHC address=89.175.8.40/30
 add list=GRCHC address=89.175.8.44/30
 add list=GRCHC address=89.175.8.52/30
 add list=GRCHC address=89.175.8.68/30
-add list=GRCHC address=89.175.82.240/29
 add list=GRCHC address=89.175.9.4/30
 add list=GRCHC address=89.179.155.192/28
 add list=GRCHC address=89.179.179.16/28
