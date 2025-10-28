@@ -1,3 +1,4 @@
+/ip firewall address-list
 add list=GRCHC address=109.207.0.0/20
 add list=GRCHC address=176.109.0.0/21
 add list=GRCHC address=176.116.96.0/20
@@ -211,4 +212,3 @@ add list=GRCHC address=95.167.76.160/27
 add list=GRCHC address=95.173.128.0/19
 add list=GRCHC address=95.173.128.0/20
 add list=GRCHC address=95.173.144.0/20
-/ip firewall address-list
